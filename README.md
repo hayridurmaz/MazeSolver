@@ -1,6 +1,7 @@
 # MazeSolver
 This a program in c which solves and describes a maze that a robot in it.
 sample input-output:
+
 w o o o
 gonorth
 o w w o

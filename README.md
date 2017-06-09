@@ -10,13 +10,13 @@ w o o w
 gonorth
 w o w o
 
-u uu
-w.wu
-w w
-uw
-uu u
+u uu\n
+w.wu\n
+w w \n
+uw  \n
+uu u\n
 
-u= Unknown
-w=Wall
-.=current Place of Robot
+u= Unknown,
+w=Wall,
+.=current Place of Robot,
 " "= Space
